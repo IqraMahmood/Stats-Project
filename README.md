@@ -1,6 +1,6 @@
 # Stats-Project
 
-##DevNation
+## DevNation
 DevNation is on the mission to train the next generation of web and AI engineers in Asia.
 
 
